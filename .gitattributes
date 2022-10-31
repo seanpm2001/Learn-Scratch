@@ -32,14 +32,28 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Scratch project file
+# Not recognized by GitHub, but added anyways
+# Scratch 1.x project file
+*.sb linguist-detectable=true
+*.sb linguist-documentation=false
+*.sb linguist-language=Scratch
+# Scratch 2.x project file
+*.sb2 linguist-detectable=true
+*.sb2 linguist-documentation=false
+*.sb2 linguist-language=Scratch
+# Scratch 3.x project file
+*.sb3 linguist-detectable=true
+*.sb3 linguist-documentation=false
+*.sb3 linguist-language=Scratch
+# JSON (JavaScript Object Notation) source file
+*.json linguist-detectable=true
+*.json linguist-documentation=false
+*.json linguist-language=JSON
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
 *.less linguist-language=Less
-# JSON (JavaScript Object Notation) source file
-*.json linguist-detectable=false
-*.json linguist-documentation=false
-*.json linguist-language=JSON
 # WebVTT subtitle file
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
@@ -164,7 +178,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Sunday, October 30th at 6:42 pm PST)
+# Line count (including blank lines and compiler line): 185
 # End of script
